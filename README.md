@@ -1,4 +1,4 @@
-<h1> Hi There, I'm John </h1>
+<h1> Hi There </h1>
 
 ### Data Analyst 
 - Health Care 
